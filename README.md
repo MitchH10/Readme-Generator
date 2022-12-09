@@ -2,7 +2,7 @@
 
 ## Description
 This application is a simplified question system for creating a README.md file for your project. This template is the same as this README currently! <br />
-This README includes a table of contents, lincense badges and a link to your github and email. 
+This README includes a table of contents, license badges and a link to your github and email. 
 
 
 ## Table of Contents
